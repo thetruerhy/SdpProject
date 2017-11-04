@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\CRYSIS-PC\.gradle\caches\modules-2\files-2.1\com.itextpdf\itextg\5.5.9\3580383b2c7db8fa2fee1ffbe1993017a9ea296e\itextg-5.5.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3580383b2c7db8fa2fee1ffbe1993017a9ea296e">
+        <dex dex="D:\CSE_3rd_Year\SDPProj\HandWritingCapture\app\build\intermediates\pre-dexed\debug\itextg-5.5.9_1ca5817176f1be0b746f0f70eebab479f1eb5381.jar" />
+    </item>
+
+</items>
