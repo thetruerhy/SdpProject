@@ -1,0 +1,102 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\CSE_3rd_Year\SDPProj\HandWritingCapture\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from D:\CSE_3rd_Year\SDPProj\HandWritingCapture\app\src\main\AndroidManifest.xml:3:5-55
+		INJECTED from D:\CSE_3rd_Year\SDPProj\HandWritingCapture\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CSE_3rd_Year\SDPProj\HandWritingCapture\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\CSE_3rd_Year\SDPProj\HandWritingCapture\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CSE_3rd_Year\SDPProj\HandWritingCapture\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\CSE_3rd_Year\SDPProj\HandWritingCapture\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\CSE_3rd_Year\SDPProj\HandWritingCapture\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CSE_3rd_Year\SDPProj\HandWritingCapture\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from D:\CSE_3rd_Year\SDPProj\HandWritingCapture\app\src\main\AndroidManifest.xml:5:5-7:35
+	android:required
+		ADDED from D:\CSE_3rd_Year\SDPProj\HandWritingCapture\app\src\main\AndroidManifest.xml:7:9-32
+	android:name
+		ADDED from D:\CSE_3rd_Year\SDPProj\HandWritingCapture\app\src\main\AndroidManifest.xml:6:9-47
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\CSE_3rd_Year\SDPProj\HandWritingCapture\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from D:\CSE_3rd_Year\SDPProj\HandWritingCapture\app\src\main\AndroidManifest.xml:9:22-78
+application
+ADDED from D:\CSE_3rd_Year\SDPProj\HandWritingCapture\app\src\main\AndroidManifest.xml:11:5-26:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\CRYSIS-PC\.android\build-cache\d9eeeb293ab46dbd8d91b15cc5e2daf72caf0c9c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\CRYSIS-PC\.android\build-cache\1347a54928a67771145b75b337e801d3771197a9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\CRYSIS-PC\.android\build-cache\60390eaa2aec5eedb93be415a2c85e3c4f674f69\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\CRYSIS-PC\.android\build-cache\bff2e20d0d92cd5daeeb1c67a8a0bf5b5cdf114c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\CRYSIS-PC\.android\build-cache\34aed1527115940d138a0d2a1a90f432a29560a4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\CRYSIS-PC\.android\build-cache\bb84f6677175b3390ff364a8d39455c7d54a8f2f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\CRYSIS-PC\.android\build-cache\e5f79116c5be4ed6a173b268b7a22b08c571c038\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\CRYSIS-PC\.android\build-cache\a4f81b7a8e5e6be27027ed146b258f004a13bcb7\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\CRYSIS-PC\.android\build-cache\8e166bd639a468198a8e17e21002b299894fc38b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\CRYSIS-PC\.android\build-cache\4725b26ca15ee48431cad5b8f35106b8665c79c8\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\CSE_3rd_Year\SDPProj\HandWritingCapture\app\src\main\AndroidManifest.xml:14:9-41
+	android:supportsRtl
+		ADDED from D:\CSE_3rd_Year\SDPProj\HandWritingCapture\app\src\main\AndroidManifest.xml:16:9-35
+	android:roundIcon
+		ADDED from D:\CSE_3rd_Year\SDPProj\HandWritingCapture\app\src\main\AndroidManifest.xml:15:9-54
+	android:allowBackup
+		ADDED from D:\CSE_3rd_Year\SDPProj\HandWritingCapture\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from D:\CSE_3rd_Year\SDPProj\HandWritingCapture\app\src\main\AndroidManifest.xml:13:9-43
+	android:theme
+		ADDED from D:\CSE_3rd_Year\SDPProj\HandWritingCapture\app\src\main\AndroidManifest.xml:17:9-40
+activity#com.example.crysis_pc.handwritingcapture.MainActivity
+ADDED from D:\CSE_3rd_Year\SDPProj\HandWritingCapture\app\src\main\AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from D:\CSE_3rd_Year\SDPProj\HandWritingCapture\app\src\main\AndroidManifest.xml:18:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\CSE_3rd_Year\SDPProj\HandWritingCapture\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\CSE_3rd_Year\SDPProj\HandWritingCapture\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\CSE_3rd_Year\SDPProj\HandWritingCapture\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\CSE_3rd_Year\SDPProj\HandWritingCapture\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from D:\CSE_3rd_Year\SDPProj\HandWritingCapture\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.example.crysis_pc.handwritingcapture.PreviewActivity
+ADDED from D:\CSE_3rd_Year\SDPProj\HandWritingCapture\app\src\main\AndroidManifest.xml:25:9-53
+	android:name
+		ADDED from D:\CSE_3rd_Year\SDPProj\HandWritingCapture\app\src\main\AndroidManifest.xml:25:19-50
+uses-sdk
+INJECTED from D:\CSE_3rd_Year\SDPProj\HandWritingCapture\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\CRYSIS-PC\.android\build-cache\d9eeeb293ab46dbd8d91b15cc5e2daf72caf0c9c\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\CRYSIS-PC\.android\build-cache\1347a54928a67771145b75b337e801d3771197a9\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\CRYSIS-PC\.android\build-cache\60390eaa2aec5eedb93be415a2c85e3c4f674f69\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\CRYSIS-PC\.android\build-cache\bff2e20d0d92cd5daeeb1c67a8a0bf5b5cdf114c\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\CRYSIS-PC\.android\build-cache\34aed1527115940d138a0d2a1a90f432a29560a4\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\CRYSIS-PC\.android\build-cache\bb84f6677175b3390ff364a8d39455c7d54a8f2f\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\CRYSIS-PC\.android\build-cache\e5f79116c5be4ed6a173b268b7a22b08c571c038\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\CRYSIS-PC\.android\build-cache\a4f81b7a8e5e6be27027ed146b258f004a13bcb7\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\CRYSIS-PC\.android\build-cache\8e166bd639a468198a8e17e21002b299894fc38b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\CRYSIS-PC\.android\build-cache\4725b26ca15ee48431cad5b8f35106b8665c79c8\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.rmtheis:tess-two:8.0.0] C:\Users\CRYSIS-PC\.android\build-cache\03da8740ddc349c798a0f7549fd83f59e22fa8ef\output\AndroidManifest.xml:22:5-24:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\CRYSIS-PC\.android\build-cache\d9eeeb293ab46dbd8d91b15cc5e2daf72caf0c9c\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\CSE_3rd_Year\SDPProj\HandWritingCapture\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CSE_3rd_Year\SDPProj\HandWritingCapture\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\CSE_3rd_Year\SDPProj\HandWritingCapture\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CSE_3rd_Year\SDPProj\HandWritingCapture\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\CRYSIS-PC\.android\build-cache\d9eeeb293ab46dbd8d91b15cc5e2daf72caf0c9c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\CRYSIS-PC\.android\build-cache\1347a54928a67771145b75b337e801d3771197a9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\CRYSIS-PC\.android\build-cache\60390eaa2aec5eedb93be415a2c85e3c4f674f69\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\CRYSIS-PC\.android\build-cache\bff2e20d0d92cd5daeeb1c67a8a0bf5b5cdf114c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\CRYSIS-PC\.android\build-cache\34aed1527115940d138a0d2a1a90f432a29560a4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\CRYSIS-PC\.android\build-cache\bb84f6677175b3390ff364a8d39455c7d54a8f2f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\CRYSIS-PC\.android\build-cache\e5f79116c5be4ed6a173b268b7a22b08c571c038\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\CRYSIS-PC\.android\build-cache\a4f81b7a8e5e6be27027ed146b258f004a13bcb7\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\CRYSIS-PC\.android\build-cache\8e166bd639a468198a8e17e21002b299894fc38b\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\CRYSIS-PC\.android\build-cache\d9eeeb293ab46dbd8d91b15cc5e2daf72caf0c9c\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\CRYSIS-PC\.android\build-cache\d9eeeb293ab46dbd8d91b15cc5e2daf72caf0c9c\output\AndroidManifest.xml:26:9-47
